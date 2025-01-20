@@ -37,7 +37,6 @@ body {
 
 .main {
     display: flex;
-    justify-content: space-between;
 }
 
 .number {
@@ -77,4 +76,9 @@ body {
     background-color: #ffeecc;
     font-weight: bold;
     transition: font-weight .2s ease;
+}
+
+.subtract,
+.divide {
+    padding: .35rem;
 }
