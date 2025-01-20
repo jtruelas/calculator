@@ -15,8 +15,8 @@ body {
 }
 
 .container {
-    width: 50%;
-    height: 50%;
+    width: 12rem;
+    height: 20rem;
     border: 5px solid #8c8c8c;
     border-radius: .5rem;
     background-color: #dcdcdc;
