@@ -28,6 +28,7 @@ body {
 
 #display {
     width: 85%;
+    height: 12%;
     display: flex;
     justify-content: flex-end;
     border: 1px dashed black;
@@ -70,12 +71,14 @@ body {
 
 .button:hover {
     background-color: #ffffcc;
+    cursor: pointer;
 }
 
 .button:active {
     background-color: #ffeecc;
     font-weight: bold;
     transition: font-weight .2s ease;
+    cursor: pointer;
 }
 
 .subtract,
